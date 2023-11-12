@@ -36,7 +36,7 @@ The dataset for the multi-class classification task can be found [here](https://
 7. **Metrics Calculation:** Calculate metrics like accuracy, sensitivity, F1 score, etc., on both training and test datasets.
 8. **Regularization Techniques:** Apply several regularization techniques on the architecture and compare the results with the initial model.
 
-## Example Results (Replace with Specific Results)
+## Example Results
 
 - Regression Task:
   - Best hyperparameters: learning rate = 0.01, optimizer = Adam, epoch = 50, hidden layers = 64.
